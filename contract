@@ -1,0 +1,6 @@
+{
+    description: "Tests items",
+    external_link: "https://github.com/slentsov/awardsNft",
+    image: "https://example.com/image.png",
+    name: "Test collection"
+}
